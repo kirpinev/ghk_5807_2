@@ -313,8 +313,7 @@ export const App = () => {
           <CDNIcon name="glyph_ticket-star_m" />
 
           <Typography.Text view="primary-medium">
-            Оплачивайте участие кэшбэком,
-            а не рублями
+            Каждый билет - шанс на мега-приз!
           </Typography.Text>
         </div>
         <div className={appSt.row}>
